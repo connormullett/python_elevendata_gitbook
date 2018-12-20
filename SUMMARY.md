@@ -1,0 +1,18 @@
+# Table of contents
+
+* [00 - Initial Setup](README.md)
+* [01 - Creating Our First App](creating-our-first-app.md)
+* [02 - Views, Urls, and Hello World](views-urls-and.md)
+* [03 - Models and PostgreSQL](models-and-postgresql.md)
+* [04 - Django Settings for PostgreSQL and Migrations](django-settings-for-postgresql.md)
+* [05 - Building the Registration](building-the-registration.md)
+* [06 - Logging in our Users](logging-in-our-users.md)
+* [07 - A New Landing Page](a-new-landing-page.md)
+* [08 - Create Functionality](the-crud-stuff.md)
+* [09 - Listing Students](listing-students.md)
+* [10 - Updating Existing Information](updating-existing-information.md)
+* [11 - Deleting Data](deleting-data.md)
+* [12 - Happy Little Decorator](decorators.md)
+* [13 - Styling](styling.md)
+* [14 - Template Extending](14-template-extending.md)
+
