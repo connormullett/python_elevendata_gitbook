@@ -15,4 +15,6 @@
 * [12 - Happy Little Decorator](decorators.md)
 * [13 - Styling](styling.md)
 * [14 - Template Extending](14-template-extending.md)
+* [15 - Bootstrapping](16-bootstrapping.md)
+* [16 - Deriving from Django Objects](untitled.md)
 
